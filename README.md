@@ -1,8 +1,5 @@
-# Sublime_Packages
+# Sublime_Packages backups
 Sublime Text Packages
 
-hello world!
-
-second.
-
-third.
+打开 sublime text 3（Preferences > Browse Packages），回退一次；
+下载该内容进行覆盖即可。
