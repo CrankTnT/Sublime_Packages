@@ -1,13 +1,14 @@
 {
 	"folder_history":
 	[
+		"/C/Program Files/Apache Software Foundation/Tomcat 9.0_Crank/webapps/yolo",
 		"/C/Users/Crank/Documents/GitHub/Sublime_Packages",
 		"/C/Users/Crank/Desktop/test",
 		"/C/Users/Crank/Documents/GitHub/tfjs-yolo-tiny-demo",
 		"/C/Users/Crank/Documents/GitHub/tfjs-yolo-tiny"
 	],
 	"last_version": 3211,
-	"last_window_id": 12,
+	"last_window_id": 17,
 	"log_indexing": false,
 	"settings":
 	{
@@ -108,6 +109,7 @@
 			},
 			"file_history":
 			[
+				"/C/Users/Crank/AppData/Roaming/Sublime Text 3/Packages/User/Side Bar.sublime-settings",
 				"/C/Users/Crank/AppData/Roaming/Sublime Text 3/Packages/User/Default (Windows).sublime-keymap",
 				"/C/Users/Crank/Desktop/a.cpp",
 				"/C/Users/Crank/Desktop/test/README.md",
@@ -278,10 +280,10 @@
 			"buffers":
 			[
 				{
-					"file": "/C/Users/Crank/AppData/Roaming/Sublime Text 3/Packages/User/Side Bar.sublime-settings",
+					"file": "/C/Users/Crank/Desktop/a.cpp",
 					"settings":
 					{
-						"buffer_size": 34,
+						"buffer_size": 0,
 						"encoding": "UTF-8",
 						"line_ending": "Windows"
 					}
@@ -376,6 +378,7 @@
 			},
 			"file_history":
 			[
+				"/C/Users/Crank/AppData/Roaming/Sublime Text 3/Packages/User/Side Bar.sublime-settings",
 				"/C/Users/Crank/AppData/Roaming/Sublime Text 3/Packages/User/Default (Windows).sublime-keymap",
 				"/C/Users/Crank/Desktop/a.cpp",
 				"/C/Users/Crank/Desktop/test/README.md",
@@ -476,24 +479,24 @@
 					[
 						{
 							"buffer": 0,
-							"file": "/C/Users/Crank/AppData/Roaming/Sublime Text 3/Packages/User/Side Bar.sublime-settings",
+							"file": "/C/Users/Crank/Desktop/a.cpp",
 							"semi_transient": false,
 							"settings":
 							{
-								"buffer_size": 34,
+								"buffer_size": 0,
 								"regions":
 								{
 								},
 								"selection":
 								[
 									[
-										32,
-										32
+										0,
+										0
 									]
 								],
 								"settings":
 								{
-									"syntax": "Packages/JavaScript/JSON.sublime-syntax"
+									"syntax": "Packages/C++/C++.sublime-syntax"
 								},
 								"translation.x": 0.0,
 								"translation.y": 0.0,
@@ -545,7 +548,7 @@
 				"height": 126.0
 			},
 			"pinned_build_system": "",
-			"position": "0,2,3,-1,-1,-1,-1,669,130,130,786",
+			"position": "0,2,3,-32000,-32000,-1,-1,669,130,130,786",
 			"project": "",
 			"replace":
 			{
