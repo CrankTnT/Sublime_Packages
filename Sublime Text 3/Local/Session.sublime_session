@@ -2,12 +2,13 @@
 	"folder_history":
 	[
 		"/C/Users/Crank/Documents/GitHub/Sublime_Packages",
+		"/C/Program Files/Apache Software Foundation/Tomcat 9.0_Crank/webapps/yolo",
 		"/C/Users/Crank/Desktop/test",
 		"/C/Users/Crank/Documents/GitHub/tfjs-yolo-tiny-demo",
 		"/C/Users/Crank/Documents/GitHub/tfjs-yolo-tiny"
 	],
 	"last_version": 3211,
-	"last_window_id": 12,
+	"last_window_id": 19,
 	"log_indexing": false,
 	"settings":
 	{
@@ -108,8 +109,10 @@
 			},
 			"file_history":
 			[
-				"/C/Users/Crank/AppData/Roaming/Sublime Text 3/Packages/User/Default (Windows).sublime-keymap",
+				"/C/Users/Crank/Desktop/hi/learning/Python/基础/圆面积的计算.py",
 				"/C/Users/Crank/Desktop/a.cpp",
+				"/C/Users/Crank/AppData/Roaming/Sublime Text 3/Packages/User/Side Bar.sublime-settings",
+				"/C/Users/Crank/AppData/Roaming/Sublime Text 3/Packages/User/Default (Windows).sublime-keymap",
 				"/C/Users/Crank/Desktop/test/README.md",
 				"/C/Users/Crank/AppData/Roaming/Sublime Text 3/Packages/User/Git.sublime-settings",
 				"/C/Users/Crank/.gitconfig",
@@ -278,11 +281,9 @@
 			"buffers":
 			[
 				{
-					"file": "/C/Users/Crank/AppData/Roaming/Sublime Text 3/Packages/User/Side Bar.sublime-settings",
 					"settings":
 					{
-						"buffer_size": 34,
-						"encoding": "UTF-8",
+						"buffer_size": 0,
 						"line_ending": "Windows"
 					}
 				}
@@ -376,8 +377,13 @@
 			},
 			"file_history":
 			[
-				"/C/Users/Crank/AppData/Roaming/Sublime Text 3/Packages/User/Default (Windows).sublime-keymap",
+				"/C/Program Files/Sublime Text 3/sublime_plugin.py",
+				"/C/Users/Crank/AppData/Roaming/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+				"/C/Users/Crank/AppData/Roaming/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+				"/C/Users/Crank/Desktop/hi/learning/Python/基础/圆面积的计算.py",
 				"/C/Users/Crank/Desktop/a.cpp",
+				"/C/Users/Crank/AppData/Roaming/Sublime Text 3/Packages/User/Side Bar.sublime-settings",
+				"/C/Users/Crank/AppData/Roaming/Sublime Text 3/Packages/User/Default (Windows).sublime-keymap",
 				"/C/Users/Crank/Desktop/test/README.md",
 				"/C/Users/Crank/AppData/Roaming/Sublime Text 3/Packages/User/Git.sublime-settings",
 				"/C/Users/Crank/.gitconfig",
@@ -476,24 +482,23 @@
 					[
 						{
 							"buffer": 0,
-							"file": "/C/Users/Crank/AppData/Roaming/Sublime Text 3/Packages/User/Side Bar.sublime-settings",
 							"semi_transient": false,
 							"settings":
 							{
-								"buffer_size": 34,
+								"buffer_size": 0,
 								"regions":
 								{
 								},
 								"selection":
 								[
 									[
-										32,
-										32
+										0,
+										0
 									]
 								],
 								"settings":
 								{
-									"syntax": "Packages/JavaScript/JSON.sublime-syntax"
+									"syntax": "Packages/Text/Plain text.tmLanguage"
 								},
 								"translation.x": 0.0,
 								"translation.y": 0.0,
@@ -590,13 +595,13 @@
 			"show_minimap": true,
 			"show_open_files": false,
 			"show_tabs": true,
-			"side_bar_visible": true,
+			"side_bar_visible": false,
 			"side_bar_width": 150.0,
 			"status_bar_visible": true,
 			"template_settings":
 			{
 			},
-			"window_id": 8,
+			"window_id": 19,
 			"workspace_name": ""
 		}
 	],
