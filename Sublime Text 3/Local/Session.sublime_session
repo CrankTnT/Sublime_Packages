@@ -1,0 +1,576 @@
+{
+	"folder_history":
+	[
+		"/C/Users/Crank/Desktop/test",
+		"/C/Users/Crank/Documents/GitHub/tfjs-yolo-tiny-demo",
+		"/C/Users/Crank/Documents/GitHub/tfjs-yolo-tiny"
+	],
+	"last_version": 3211,
+	"last_window_id": 6,
+	"log_indexing": false,
+	"settings":
+	{
+		"new_window_height": 480.0,
+		"new_window_settings":
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+				]
+			},
+			"build_system_choices":
+			[
+			],
+			"build_varint": "",
+			"command_palette":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+					[
+						"install",
+						"Package Control: Install Package"
+					],
+					[
+						"pl",
+						"Package Control: List Packages"
+					],
+					[
+						"INSTALL",
+						"Package Control: Install Package"
+					],
+					[
+						"multimark",
+						"Set Syntax: MultiMarkdown"
+					],
+					[
+						"mark",
+						"Set Syntax: Markdown"
+					],
+					[
+						"Markdown",
+						"Set Syntax: Markdown"
+					],
+					[
+						"Package Control: ",
+						"Package Control: Install Package"
+					],
+					[
+						"Package Control: Git",
+						"Package Control: Install Package"
+					]
+				],
+				"width": 0.0
+			},
+			"console":
+			{
+				"height": 157.0,
+				"history":
+				[
+					"import urllib.request,os; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); open(os.path.join(ipp, pf), 'wb').write(urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ','%20')).read())"
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"file_history":
+			[
+				"/C/Users/Crank/AppData/Roaming/Sublime Text 3/Packages/User/Git.sublime-settings",
+				"/C/Users/Crank/.gitconfig",
+				"/C/Users/Crank/.ssh/id_rsa.pub",
+				"/C/Users/Crank/AppData/Roaming/Sublime Text 3/Packages/MarkdownEditing/README.md",
+				"/C/Program Files/Apache Software Foundation/Tomcat 9.0_Crank/webapps/yolo/main.js",
+				"/C/Users/Crank/Desktop/毕设/RealTimeFaceDetection-master/faceData/process.py",
+				"/C/Program Files/Apache Software Foundation/Tomcat 9.0_Crank/webapps/yolo/index.html",
+				"/C/Users/Crank/AppData/Roaming/Sublime Text 3/Packages/Package Control/Package Control.sublime-settings",
+				"/C/迅雷下载/office2019/使用前必看.txt",
+				"/C/Users/Crank/Desktop/YOLO/darknet-master/build/darknet/x64/darknet_yolo_v3_video.cmd",
+				"/C/Users/Crank/Desktop/YOLO/darknet-master/build/darknet/x64/11111111111.cmd",
+				"/C/Users/Crank/Desktop/YOLO/新建文件夹/darknet/x64/darknet_yololite_video.cmd",
+				"/C/Users/Crank/Desktop/YOLO/darknet-master/build/darknet/x64/darknet_web_cam_voc.cmd",
+				"/C/Users/Crank/Desktop/YOLO/darknet-master/build/darknet/x64/darknet_yololite_ipwebcam.cmd",
+				"/C/Users/Crank/Desktop/YOLO/darknet-master/build/darknet/x64/darknet_video.cmd",
+				"/C/Users/Crank/Desktop/YOLO/darknet-master/build/darknet/x64/darknet_yololite_video.cmd",
+				"/C/Users/Crank/Desktop/YOLO/darknet-master/build/darknet/x64/darknet_voc.cmd",
+				"/C/Users/Crank/Desktop/YOLO/darknet-master/build/darknet/x64/darknet_yolo_v3.cmd",
+				"/C/Users/Crank/Desktop/YOLO/新建文件夹/darknet/darknet_yololite_video.cmd",
+				"/C/Program Files/Apache Software Foundation/Tomcat 9.0_Crank/conf/web.xml",
+				"/C/Users/Crank/Desktop/YOLO/RealTimeFaceDetection-master/index.html",
+				"/C/Users/Crank/Desktop/YOLO/darknet-master/build/darknet/x64/darknet.py",
+				"/C/Program Files/Apache Software Foundation/Tomcat 9.0_Crank/conf/tomcat-users.xml",
+				"/C/Users/Crank/Desktop/YOLO/新建文件夹/darknet_yololite_cam.cmd",
+				"/C/Users/Crank/Desktop/YOLO/darknet-master/build/darknet/x64/darknet_yolov3_pseudo_labeling.cmd",
+				"/C/Users/Crank/Desktop/YOLO/darknet-master/build/darknet/x64/calc_anchors.cmd",
+				"/C/Users/Crank/Desktop/YOLO/darknet-master/build/darknet/x64/darknet_net_cam_voc.cmd",
+				"/C/Users/Crank/Desktop/YOLO/darknet-master/darknet_video.py",
+				"/C/Users/Crank/Desktop/YOLO/darknet-master/build/darknet/x64/darknet_video.py",
+				"/C/Users/Crank/Desktop/YOLO/RealTimeFaceDetection-master/main.js",
+				"/C/Users/Crank/Documents/GitHub/tfjs-yolo-tiny-demo/src/webcam.js",
+				"/C/Users/Crank/Documents/GitHub/tfjs-yolo-tiny-demo/src/model_voc.html",
+				"/C/Users/Crank/Documents/GitHub/tfjs-yolo-tiny-demo/src/index_voc.js",
+				"/C/Users/Crank/Desktop/YOLO/PeleeNet-master/Pelee-master/peleenet.py",
+				"/C/Users/Crank/Documents/GitHub/tfjs-yolo-tiny-demo/src/model_coco.html",
+				"/C/Users/Crank/Desktop/YOLO/RealTimeFaceDetection-master/colabFace.ipynb",
+				"/C/Users/Crank/Documents/GitHub/tfjs-yolo-tiny/src/index.js",
+				"/C/Users/Crank/Documents/GitHub/tfjs-yolo-tiny/webpack.config.js",
+				"/C/Users/Crank/.npmrc",
+				"/C/Users/Crank/Desktop/YOLO/YAD2K-master/test_yolo.py",
+				"/C/Users/Crank/Desktop/YOLO/YAD2K-master/yad2k/models/keras_yolo.py",
+				"/C/Users/Crank/Desktop/YOLO/YAD2K-master/yad2k.py",
+				"/C/Users/Crank/Desktop/YOLO/YOLO-LITE-master/tiny-yolov2-voc-noBatch.cfg",
+				"/C/迅雷下载/clash_for_windows_pkg-0.9.3/README.md",
+				"/C/Users/Crank/OneDrive/文档/新建文件夹/数据库系统原理/作业/大作业/源代码与脚本/建库脚本/FDB_16281219.sql",
+				"/C/Users/Crank/Desktop/YOLO/YOLO-LITE-master/scripts/mapScript.py",
+				"/C/Users/Crank/Desktop/YOLO/darknet-master/Makefile",
+				"/C/Users/Crank/Desktop/YOLO/YOLO-LITE-master/scripts/weights.py",
+				"/C/Users/Crank/pip/pip.ini",
+				"/C/Users/Crank/pip.ini",
+				"/C/Users/Crank/Desktop/YOLO/darknet-master/build/darknet/x64/gen_anchors.py",
+				"/C/Users/Crank/Desktop/YOLO/darknet-master/darknet.py",
+				"/C/Users/Crank/source/repos/test/test.vcxproj",
+				"/C/main.cpp",
+				"/C/Users/Crank/Desktop/HelloWorld/HelloWorld.cpp",
+				"/C/aow_drv.log",
+				"/C/Users/Crank/Desktop/HelloWorld/CMakeLists.txt",
+				"/C/Windows/System32/drivers/etc/hosts"
+			],
+			"find":
+			{
+				"height": 27.0
+			},
+			"find_in_files":
+			{
+				"height": 0.0,
+				"where_history":
+				[
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+					"GET",
+					"K",
+					"waitkey",
+					"Globals"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"incremental_find":
+			{
+				"height": 27.0
+			},
+			"input":
+			{
+				"height": 0.0
+			},
+			"menu_visible": true,
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"pinned_build_system": "",
+			"replace":
+			{
+				"height": 50.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+					[
+						"",
+						"untitled"
+					]
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_symbol":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"show_minimap": true,
+			"show_open_files": false,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 150.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			}
+		},
+		"new_window_width": 640.0
+	},
+	"windows":
+	[
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+				]
+			},
+			"buffers":
+			[
+				{
+					"settings":
+					{
+						"buffer_size": 0,
+						"line_ending": "Windows"
+					}
+				}
+			],
+			"build_system": "",
+			"build_system_choices":
+			[
+			],
+			"build_varint": "",
+			"command_palette":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+					[
+						"gitpush",
+						"Git: Push"
+					],
+					[
+						"gitco",
+						"Git: Commit"
+					],
+					[
+						"gitadd",
+						"Git: Add All"
+					],
+					[
+						"git co",
+						"Git: Commit"
+					],
+					[
+						"gita",
+						"Git: Add All"
+					],
+					[
+						"install",
+						"Package Control: Install Package"
+					],
+					[
+						"pl",
+						"Package Control: List Packages"
+					],
+					[
+						"INSTALL",
+						"Package Control: Install Package"
+					],
+					[
+						"multimark",
+						"Set Syntax: MultiMarkdown"
+					],
+					[
+						"mark",
+						"Set Syntax: Markdown"
+					],
+					[
+						"Markdown",
+						"Set Syntax: Markdown"
+					],
+					[
+						"Package Control: ",
+						"Package Control: Install Package"
+					],
+					[
+						"Package Control: Git",
+						"Package Control: Install Package"
+					]
+				],
+				"width": 0.0
+			},
+			"console":
+			{
+				"height": 157.0,
+				"history":
+				[
+					"import urllib.request,os; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); open(os.path.join(ipp, pf), 'wb').write(urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ','%20')).read())"
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"file_history":
+			[
+				"/C/Users/Crank/Desktop/test/README.md",
+				"/C/Users/Crank/AppData/Roaming/Sublime Text 3/Packages/User/Git.sublime-settings",
+				"/C/Users/Crank/.gitconfig",
+				"/C/Users/Crank/.ssh/id_rsa.pub",
+				"/C/Users/Crank/AppData/Roaming/Sublime Text 3/Packages/MarkdownEditing/README.md",
+				"/C/Program Files/Apache Software Foundation/Tomcat 9.0_Crank/webapps/yolo/main.js",
+				"/C/Users/Crank/Desktop/毕设/RealTimeFaceDetection-master/faceData/process.py",
+				"/C/Program Files/Apache Software Foundation/Tomcat 9.0_Crank/webapps/yolo/index.html",
+				"/C/Users/Crank/AppData/Roaming/Sublime Text 3/Packages/Package Control/Package Control.sublime-settings",
+				"/C/迅雷下载/office2019/使用前必看.txt",
+				"/C/Users/Crank/Desktop/YOLO/darknet-master/build/darknet/x64/darknet_yolo_v3_video.cmd",
+				"/C/Users/Crank/Desktop/YOLO/darknet-master/build/darknet/x64/11111111111.cmd",
+				"/C/Users/Crank/Desktop/YOLO/新建文件夹/darknet/x64/darknet_yololite_video.cmd",
+				"/C/Users/Crank/Desktop/YOLO/darknet-master/build/darknet/x64/darknet_web_cam_voc.cmd",
+				"/C/Users/Crank/Desktop/YOLO/darknet-master/build/darknet/x64/darknet_yololite_ipwebcam.cmd",
+				"/C/Users/Crank/Desktop/YOLO/darknet-master/build/darknet/x64/darknet_video.cmd",
+				"/C/Users/Crank/Desktop/YOLO/darknet-master/build/darknet/x64/darknet_yololite_video.cmd",
+				"/C/Users/Crank/Desktop/YOLO/darknet-master/build/darknet/x64/darknet_voc.cmd",
+				"/C/Users/Crank/Desktop/YOLO/darknet-master/build/darknet/x64/darknet_yolo_v3.cmd",
+				"/C/Users/Crank/Desktop/YOLO/新建文件夹/darknet/darknet_yololite_video.cmd",
+				"/C/Program Files/Apache Software Foundation/Tomcat 9.0_Crank/conf/web.xml",
+				"/C/Users/Crank/Desktop/YOLO/RealTimeFaceDetection-master/index.html",
+				"/C/Users/Crank/Desktop/YOLO/darknet-master/build/darknet/x64/darknet.py",
+				"/C/Program Files/Apache Software Foundation/Tomcat 9.0_Crank/conf/tomcat-users.xml",
+				"/C/Users/Crank/Desktop/YOLO/新建文件夹/darknet_yololite_cam.cmd",
+				"/C/Users/Crank/Desktop/YOLO/darknet-master/build/darknet/x64/darknet_yolov3_pseudo_labeling.cmd",
+				"/C/Users/Crank/Desktop/YOLO/darknet-master/build/darknet/x64/calc_anchors.cmd",
+				"/C/Users/Crank/Desktop/YOLO/darknet-master/build/darknet/x64/darknet_net_cam_voc.cmd",
+				"/C/Users/Crank/Desktop/YOLO/darknet-master/darknet_video.py",
+				"/C/Users/Crank/Desktop/YOLO/darknet-master/build/darknet/x64/darknet_video.py",
+				"/C/Users/Crank/Desktop/YOLO/RealTimeFaceDetection-master/main.js",
+				"/C/Users/Crank/Documents/GitHub/tfjs-yolo-tiny-demo/src/webcam.js",
+				"/C/Users/Crank/Documents/GitHub/tfjs-yolo-tiny-demo/src/model_voc.html",
+				"/C/Users/Crank/Documents/GitHub/tfjs-yolo-tiny-demo/src/index_voc.js",
+				"/C/Users/Crank/Desktop/YOLO/PeleeNet-master/Pelee-master/peleenet.py",
+				"/C/Users/Crank/Documents/GitHub/tfjs-yolo-tiny-demo/src/model_coco.html",
+				"/C/Users/Crank/Desktop/YOLO/RealTimeFaceDetection-master/colabFace.ipynb",
+				"/C/Users/Crank/Documents/GitHub/tfjs-yolo-tiny/src/index.js",
+				"/C/Users/Crank/Documents/GitHub/tfjs-yolo-tiny/webpack.config.js",
+				"/C/Users/Crank/.npmrc",
+				"/C/Users/Crank/Desktop/YOLO/YAD2K-master/test_yolo.py",
+				"/C/Users/Crank/Desktop/YOLO/YAD2K-master/yad2k/models/keras_yolo.py",
+				"/C/Users/Crank/Desktop/YOLO/YAD2K-master/yad2k.py",
+				"/C/Users/Crank/Desktop/YOLO/YOLO-LITE-master/tiny-yolov2-voc-noBatch.cfg",
+				"/C/迅雷下载/clash_for_windows_pkg-0.9.3/README.md",
+				"/C/Users/Crank/OneDrive/文档/新建文件夹/数据库系统原理/作业/大作业/源代码与脚本/建库脚本/FDB_16281219.sql",
+				"/C/Users/Crank/Desktop/YOLO/YOLO-LITE-master/scripts/mapScript.py",
+				"/C/Users/Crank/Desktop/YOLO/darknet-master/Makefile",
+				"/C/Users/Crank/Desktop/YOLO/YOLO-LITE-master/scripts/weights.py",
+				"/C/Users/Crank/pip/pip.ini",
+				"/C/Users/Crank/pip.ini",
+				"/C/Users/Crank/Desktop/YOLO/darknet-master/build/darknet/x64/gen_anchors.py",
+				"/C/Users/Crank/Desktop/YOLO/darknet-master/darknet.py",
+				"/C/Users/Crank/source/repos/test/test.vcxproj",
+				"/C/main.cpp",
+				"/C/Users/Crank/Desktop/HelloWorld/HelloWorld.cpp",
+				"/C/aow_drv.log",
+				"/C/Users/Crank/Desktop/HelloWorld/CMakeLists.txt",
+				"/C/Windows/System32/drivers/etc/hosts"
+			],
+			"find":
+			{
+				"height": 27.0
+			},
+			"find_in_files":
+			{
+				"height": 0.0,
+				"where_history":
+				[
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+					"GET",
+					"K",
+					"waitkey",
+					"Globals"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"groups":
+			[
+				{
+					"selected": 0,
+					"sheets":
+					[
+						{
+							"buffer": 0,
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 0,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										0,
+										0
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/Text/Plain text.tmLanguage"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 0,
+							"type": "text"
+						}
+					]
+				}
+			],
+			"incremental_find":
+			{
+				"height": 27.0
+			},
+			"input":
+			{
+				"height": 0.0
+			},
+			"layout":
+			{
+				"cells":
+				[
+					[
+						0,
+						0,
+						1,
+						1
+					]
+				],
+				"cols":
+				[
+					0.0,
+					1.0
+				],
+				"rows":
+				[
+					0.0,
+					1.0
+				]
+			},
+			"menu_visible": true,
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"output.git":
+			{
+				"height": 126.0
+			},
+			"pinned_build_system": "",
+			"position": "0,2,3,-32000,-32000,-1,-1,797,793,258,1449",
+			"project": "",
+			"replace":
+			{
+				"height": 50.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+					[
+						"",
+						"untitled"
+					]
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_symbol":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"selected_group": 0,
+			"settings":
+			{
+			},
+			"show_minimap": true,
+			"show_open_files": false,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 150.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			},
+			"window_id": 1,
+			"workspace_name": ""
+		}
+	],
+	"workspaces":
+	{
+		"recent_workspaces":
+		[
+		]
+	}
+}
